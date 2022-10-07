@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @russell.
-- 👀 I’m interested in #python, #datascience, #deeplearning, #machinelearning, #nlp, #MLOp
-- 🌱 I’m currently learning stable-diffusers
+- 👀 I’m interested in #python, #datascience, #deeplearning, #machinelearning, #nlp, #MLOps
+- 🌱 I’m currently learning stable-diffusers, and ASR.
 - 💞️ I’m looking to collaborate on MLOps
 - 📫 You can reach me via [linkedln](https://tr.linkedin.com/in/russell-c/en)
 
