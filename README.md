@@ -4,11 +4,12 @@
 - 💞️ I’m looking to collaborate on MLOps
 
 - 📫 You can reach me via linkedln
-<html> 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="russell-c" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/russell-c/en?trk=profile-badge">Russell C.</a></div>
-</html>
+
 
 <!---
 russell-ai/russell-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<html> 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="russell-c" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/russell-c/en?trk=profile-badge">Russell C.</a></div>
+</html>
