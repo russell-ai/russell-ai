@@ -6,19 +6,19 @@
 - 📫 You can reach me via linkedln
 
 
+
 <!---
 russell-ai/russell-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-
-<!DOCTYPE html>
-
-    <html lang="en">
-    <head>
-        <title>Linkedln</title>
-    </head>
-    <body>
-        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="russell-c" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/russell-c/en?trk=profile-badge">Russell C.</a></div>
-    </body>
-    </html>
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>My Linkedln</h2>
+            <div class="wrap">
+                <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="russell-c" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/russell-c/en?trk=profile-badge">Russell C.</a></div>
+            </div>
+        </div>
+    </div>
+</pre>
