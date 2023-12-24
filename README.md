@@ -2,7 +2,7 @@
 - 💻 Proficient in Python programming language  
 - 🔬 Skilled in data science, deep learning, and natural language processing  
 - 🚀 Experienced in MLOps (Machine Learning Operations)  
-- 📚 Currently learning stable-diffusers and ASR (Automatic Speech Recognition)  
+- 📚 Currently learning LLM, stable-diffusers and ASR (Automatic Speech Recognition)  
 - 🤝 I am enthusiastic about collaborating with like-minded professionals on MLOps projects  
 - 📧 You can reach me via [linkedln](https://www.linkedin.com/in/rcaliskan/).  
 
